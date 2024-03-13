@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Text3D",
+			"Enabled": true
+		},
+		{
+			"Name": "LumaAIPlugin",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			],
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/66dd775fa3104ecfb3ae800b8963c8b9"
+		}
+	]
+}
