@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"E:\\FantasyLane\\UE\\fantasy-lane-UE\\fantasyLane_UE\\Intermediate\\Source\\fantasyLane_UE.Build.cs",
+		"E:\\FantasyLane\\UE\\fantasy-lane-UE\\fantasyLane_UE\\Intermediate\\Source\\fantasyLane_UE.Target.cs",
+		"E:\\FantasyLane\\UE\\fantasy-lane-UE\\fantasyLane_UE\\Intermediate\\Source\\fantasyLane_UEClient.Target.cs",
+		"E:\\FantasyLane\\UE\\fantasy-lane-UE\\fantasyLane_UE\\Intermediate\\Source\\fantasyLane_UEEditor.Target.cs",
+		"E:\\FantasyLane\\UE\\fantasy-lane-UE\\fantasyLane_UE\\Intermediate\\Source\\fantasyLane_UEServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

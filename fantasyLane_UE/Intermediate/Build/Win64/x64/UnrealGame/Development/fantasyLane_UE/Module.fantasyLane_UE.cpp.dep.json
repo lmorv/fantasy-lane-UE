@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\fantasylane\\ue\\fantasy-lane-ue\\fantasylane_ue\\intermediate\\build\\win64\\x64\\unrealgame\\development\\fantasylane_ue\\module.fantasylane_ue.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\fantasylane\\ue\\fantasy-lane-ue\\fantasylane_ue\\intermediate\\build\\win64\\x64\\fantasylane_ue\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "e:\\fantasylane\\ue\\fantasy-lane-ue\\fantasylane_ue\\intermediate\\build\\win64\\x64\\unrealgame\\development\\fantasylane_ue\\definitions.fantasylane_ue.h",
+            "e:\\fantasylane\\ue\\fantasy-lane-ue\\fantasylane_ue\\intermediate\\source\\fantasylane_ue.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

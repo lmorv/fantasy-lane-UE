@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.fantasyLane_UE.cpp.obj": [
+			"fantasyLane_UE.cpp.obj"
+		]
+	}
+}
