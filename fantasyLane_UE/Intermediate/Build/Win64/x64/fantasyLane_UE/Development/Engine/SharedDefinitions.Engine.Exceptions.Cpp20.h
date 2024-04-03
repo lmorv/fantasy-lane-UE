@@ -44,7 +44,7 @@
 #define WITH_CEF3 1
 #define WITH_LIVE_CODING 1
 #define UE_LIVE_CODING_ENGINE_DIR "C:\\Program Files\\Epic Games\\UE_5.3\\Engine"
-#define UE_LIVE_CODING_PROJECT "C:\\Users\\Research\\Documents\\GitHub\\fantasy-lane-UE\\fantasyLane_UE\\fantasyLane_UE.uproject"
+#define UE_LIVE_CODING_PROJECT "C:\\Users\\kisho\\Documents\\GitHub\\fantasy-lane-UE\\fantasyLane_UE\\fantasyLane_UE.uproject"
 #define WITH_CPP_MODULES 0
 #define WITH_CPP_COROUTINES 0
 #define WITH_PROCESS_PRIORITY_CONTROL 0

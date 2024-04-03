@@ -211,7 +211,8 @@
 		{
 			"ShaderMapHash": "2BDE1542B80D2826A3513BB14FDE1C87CDC7A612",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
 			]
 		},
 		{
@@ -342,6 +343,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BED6AE8134D98AFDD127E71B64030765D7D12ACC",
+			"Assets": [
+				"/Engine/EngineMeshes/BackgroundMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "EBCB02835D59A3391A52C2105ECDD8799B8FE658",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
@@ -374,6 +381,7 @@
 		{
 			"ShaderMapHash": "3F24318B76C42C5E352ECFF81CBE51207B070E20",
 			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
@@ -432,12 +440,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A36C56A7D992EB4C5DFDE50A5CA5BDA839A4D1BD",
-			"Assets": [
-				"/Engine/EngineMeshes/BackgroundMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "682051AEE752895C66E789852614A3740062002F",
 			"Assets": [
 				"/Engine/EngineSky/M_SimpleSkyDome"
@@ -452,6 +454,7 @@
 		{
 			"ShaderMapHash": "8BD081B1749C3323106FC08F396DC8A215BFC911",
 			"Assets": [
+				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/FirstPersonArms/Character/Materials/M_Mannequin"
 			]
 		},

@@ -52,12 +52,14 @@
 		{
 			"ShaderMapHash": "557B8316736AFD1DE02ECF6BE64E8290126A5AD8",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
 			]
 		},
 		{
 			"ShaderMapHash": "75513F18794DFCB512FBF94EA688B13C9993F1B6",
 			"Assets": [
+				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/FirstPersonArms/Character/Materials/M_Mannequin"
 			]
 		},
@@ -407,6 +409,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DF92FABCF4D5BD3189337A67757B1D4CC0DDEDEB",
+			"Assets": [
+				"/Engine/EngineMeshes/BackgroundMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "44910BC284463999BD2481DFBDF4BE7E5E06694D",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
@@ -416,12 +424,6 @@
 			"ShaderMapHash": "6BAF19C2710BD8381B1CAEA0571A316196BDE37C",
 			"Assets": [
 				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "64968AC399EDCB42C1BDE9BCDEFAD649326F4C91",
-			"Assets": [
-				"/Engine/EngineMeshes/BackgroundMaterial"
 			]
 		},
 		{
@@ -511,7 +513,8 @@
 		{
 			"ShaderMapHash": "9478F5EAB55BE5F770F77DF46629C66D7771B61A",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
